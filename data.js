@@ -2,13 +2,13 @@ module.exports = {
 
     mongoLink:'mongodb+srv://airdropbot:Kht8c3Fw74ZUCBSl@cluster0.bqqkj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',//database link
     
-    bot_token:'1894447010:AAGVj5pT9gQo0V7NF475c8hBC6avQO2VUlg',//bot token
+    bot_token:'5318974439:AAFUsXMgE2QWGi4SAz8oicfSSvGDOjTRPHQ',//bot token
     
-    bot_name:'COINBASEdemobot',//bot username without @
+    bot_name:'nodejscbbot',//bot username without @
     
-    bot_admin:954467596,// admin telegram id
+    bot_admin:1834995363,// admin telegram id
     
-    channelsList : ['@demonodechanel'],// channels list
+    channelsList : ['@deaddealbots'],// channels list
     
     reffer_bonus:0.00000004,// refferal bonus amount
     
@@ -24,6 +24,6 @@ module.exports = {
     
     cb_account_id:'f123b4d3-15ab-5852-86a3-8eaa796b612b',// counbase account id for the bot currency
     
-    payment_channel:'@demonodechanel'// payment channel username
+    payment_channel:'@botz_payments'// payment channel username
     
     }
