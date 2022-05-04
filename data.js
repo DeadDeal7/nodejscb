@@ -1,6 +1,6 @@
 module.exports = {
 
-    mongoLink:'mongodb+srv://airdropbot:Kht8c3Fw74ZUCBSl@cluster0.bqqkj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',//database link
+    mongoLink:'mongodb+srv://DemoMdb:XMYvO6fzN0OXgKGv@cluster0.koq49.mongodb.net/test',//database link
     
     bot_token:'5318974439:AAFUsXMgE2QWGi4SAz8oicfSSvGDOjTRPHQ',//bot token
     
